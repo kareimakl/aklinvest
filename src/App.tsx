@@ -134,12 +134,12 @@ export function App() {
   {
     title: '',
     subtitle: '',
-    image: '/public/Group-24080-1.png'
+    image: '/Group-24080-1.png'
   },
   {
     title: '',
     subtitle: '',
-    image: '/public/Strategic-Real-Estate-Investment-In-Dubai-2026.png'
+    image: '/Strategic-Real-Estate-Investment-In-Dubai-2026.png'
   }];
 
   // Auto-advance reels when in view
